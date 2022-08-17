@@ -1,0 +1,30 @@
+.u-block-d496-2 {
+  position: absolute;
+  bottom: 10px;
+}
+
+.u-block-d496-3 {
+  position: absolute;
+  left: 0;
+}
+
+.u-block-d496-4 {
+  position: absolute;
+  right: 0;
+}
+
+.u-section-1-1 .u-sheet-1 {
+  min-height: 500px;
+}
+
+@media (max-width: 767px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 407px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 318px;
+  }
+}
